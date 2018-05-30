@@ -1,0 +1,10 @@
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\bin\Debug\Vision.Base.dll
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\bin\Debug\Vision.Base.pdb
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\bin\Debug\Vision.Base.xml
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\Std_Vision\标准软件项目整合v1.2\实现\Vision.App\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
